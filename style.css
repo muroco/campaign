@@ -1,0 +1,44 @@
+.hd_bg{
+    background-color:#e9e6e0;
+}
+body {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+    font-size: 20px;
+    background: url(images/unsplash_bmM_IdLd1SA.png)left top fixed;
+    background-size: cover;
+}
+.img-hero{
+    padding-top:100px;
+}
+.container-camp {
+    max-width: 960px;
+}
+
+.bt_bg {
+    background-color: #E6F3E6;
+}
+
+.how_bg {
+    background-color: #A7CCF5;
+    padding-bottom:100px;
+}
+.flow-bg{
+    background-color:#e9e6e0;
+}
+.item_1{
+    font-size:30px;
+}
+.rule_bg {
+    background-image: url(images/rule_bg.png);
+    height: 418px;
+}
+.rule_1{
+    font-size:30px;
+    padding-bottom:10px;
+}
+.ft_bg {
+    background-color: #E9E6E0;
+}
