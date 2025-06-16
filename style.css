@@ -1,18 +1,37 @@
-.hd_bg{
-    background-color:#e9e6e0;
+.hd_bg {
+    background-color: #e9e6e0;
 }
+
+@media (max-width: 768px) {
+    .img_logo {
+        width: 70%;
+        /* スマホで画像幅を80%に */
+    }
+
+    .sm_rule_box {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+.sm_top_btn{
+    height:70px;
+    width:auto;
+}
+}
+
 body {
     font-family: "Noto Sans JP", sans-serif;
     font-optical-sizing: auto;
-    font-weight:bold;
+    font-weight: bold;
     font-style: normal;
     font-size: 20px;
     background: url(images/unsplash_bmM_IdLd1SA.png)left top fixed;
     background-size: cover;
 }
-.img-hero{
-    padding-top:100px;
+
+.img-hero {
+    padding-top: 100px;
 }
+
 .container-camp {
     max-width: 960px;
 }
@@ -23,22 +42,27 @@ body {
 
 .how_bg {
     background-color: #A7CCF5;
-    padding-bottom:100px;
+    padding-bottom: 100px;
 }
-.flow-bg{
-    background-color:#e9e6e0;
+
+.flow-bg {
+    background-color: #e9e6e0;
 }
-.item_1{
-    font-size:30px;
+
+.item_1 {
+    font-size: 20px;
 }
+
 .rule_bg {
     background-image: url(images/rule_bg.png);
     height: 418px;
 }
-.rule_1{
-    font-size:30px;
-    padding-bottom:10px;
+
+.rule_1 {
+    font-size: 25px;
+    padding-bottom: 20px;
 }
+
 .ft_bg {
     background-color: #E9E6E0;
 }
