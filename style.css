@@ -4,7 +4,8 @@
 
 @media (max-width: 768px) {
     .img_logo {
-        width: 70%;
+        width: 80%;
+        height:40px;
         /* スマホで画像幅を80%に */
     }
 
@@ -50,7 +51,7 @@ body {
 }
 
 .item_1 {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .rule_bg {
@@ -59,8 +60,8 @@ body {
 }
 
 .rule_1 {
-    font-size: 25px;
-    padding-bottom: 20px;
+    font-size: 20px;
+    padding-bottom: 25px;
 }
 
 .ft_bg {
