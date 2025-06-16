@@ -4,7 +4,7 @@
 
 @media (max-width: 768px) {
     .img_logo {
-        width: 80%;
+        width: 60%;
         height:40px;
         /* スマホで画像幅を80%に */
     }
